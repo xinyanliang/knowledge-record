@@ -9,16 +9,18 @@ To do:
  
  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)(NIPS2012)
 
- 3. [ZF-nett
+ 3. [ZF-net]
  
  [Visualizing and understanding convolutional networks](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53)(ECCV2014)
  
  4. [VGG]
  
  [Very deep convolutional networks for large-scale image recognition](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)(ICLM2015)
+ 
  5. [GoogleNet]
  
  [Going deeper with convolutions](https://www.cvfoundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)(CVPR2015)
+ 
  6. [Residual Networks, ResNets]
  
  [Deep residual learning for image recognition](https://www.cvfoundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)(CVPR2016)
