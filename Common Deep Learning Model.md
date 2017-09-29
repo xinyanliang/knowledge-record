@@ -19,7 +19,15 @@ To do:
  
  5. [GoogleNet]
  
- [Going deeper with convolutions](https://www.cvfoundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)(CVPR2015)
+ [Going deeper with convolutions](https://www.cvfoundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html)(CVPR2015):GoogleNet
+ 
+ [Batch normalization: Accelerating deep network training by reducing internal covariate shift (http://proceedings.mlr.press/v37/ioffe15.html)(ICML2015):BN-Inception
+ 
+ >Inception-v3
+ [Rethinking the inception architecture for computer vision](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.html)(CVPR2016):
+ 
+ > Inception Residual Networks
+ [Inception-v4, inception-resnet and the impact of residual connections on learning](https://arxiv.org/pdf/1602.07261.pdf)(AAAI2017)
  
  6. [Residual Networks, ResNets]
  
@@ -27,8 +35,6 @@ To do:
  
  [Identity mappings in deep residual networks](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_38)(ECCV2016)
  
- 7. [Inception Residual Networks]
- 
- [Inception-v4, inception-resnet and the impact of residual connections on learning](https://arxiv.org/pdf/1602.07261.pdf)(AAAI2017)
+
  
  8. [DenseNet]
