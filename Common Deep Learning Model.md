@@ -19,7 +19,9 @@ Paper list.
 |9|![MDF](netimage/a.png)| ResNets|__Identity mappings in deep residual networks__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__ECCV2016__|[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_38) [code](https://github.com/cesc-park/attend2u) 解读|
 |10|![MDF](netimage/densenet.jpg)| DenseNets|__Densely Connected Convolutional Networks__|[Huang, Gao](http://www.cs.cornell.edu/~gaohuang/) and [Liu, Zhuang](https://liuzhuang13.github.io/) and, [Laurens van der Maaten](https://lvdmaaten.github.io/), [Kilian Q Weinberger](https://www.cs.cornell.edu/~kilian/)|__CVPR2017__|[PDF](https://arxiv.org/pdf/1608.06993.pdf) [github](https://github.com/liuzhuang13/DenseNet) 解读|
 |11|![MDF](netimage/PyramidNet.png)| DenseNets|__Deep Pyramidal Residual Networks__|Dongyoon Han, Jiwhan Kim, Junmo Kim|__CVPR2017__|[PDF](https://arxiv.org/pdf/1610.02915.pdf) [github](https://github.com/jhkim89/PyramidNet) 解读|
-
+|12|![MDF](netimage/FPNt.png)| FPN|__Feature Pyramid Networks for Object Detection__|Tsung-Yi Lin, Piotr Dollár, Ross Girshick, [Kaiming He](http://kaiminghe.com/), Bharath Hariharan, and Serge Belongie|__CVPR2017__|[PDF](https://arxiv.org/pdf/1612.03144.pdf) [github]() 解读|
+|13|![MDF](netimage/ResNeXt.png)| ResNeXt|__Aggregated Residual Transformations for Deep Neural Networks__|Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He|__CVPR2017__|[PDF](https://arxiv.org/abs/1611.05431) [github](https://github.com/facebookresearch/ResNeXt) 解读|
+|14|![MDF](netimage/DRN.png)| DRNs|__Dilated Residual Networks__|Fisher Yu, Vladlen Koltun, Thomas Funkhouser|__CVPR2017__|[PDF](https://arxiv.org/abs/1705.09914) [github]| 解读|
 
 
  
