@@ -13,9 +13,9 @@ Paper list.
 ## Image Captioning
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|1|![MDF](data/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|[Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim(https://sites.google.com/site/ligb86/), Yizhou Yu|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [Project](https://github.com/cesc-park/attend2u)|
+|1|![MDF](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|[Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [Project](https://github.com/cesc-park/attend2u)|
 
 ## Others
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|1|![MDF](data/MDF.png)|__Attend to You: Personalized Image Captioning with Context Sequence Memory Networks__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF](http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) [Project]()|
+|1|![MDF](image/MDF.png)|__Attend to You: Personalized Image Captioning with Context Sequence Memory Networks__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF](http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) [Project]()|
