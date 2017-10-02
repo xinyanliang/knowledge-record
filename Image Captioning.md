@@ -2,10 +2,10 @@
 <table style="width:100%">
   <tr>
     <td rowspan="3">Bill Gates</td>
-    <td><b>Attend to You: Personalized Image Captioning with Context Sequence Memory Networks</b></td>
+    <td>Title:<b>Attend to You: Personalized Image Captioning with Context Sequence Memory Networks</b></td>
   </tr>
   <tr>
-    <td>Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim</td>
+    <td>Authors:Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim</td>
   </tr>
   <tr>
     <td>CVPR2017 [PDF](https://arxiv.org/abs/1704.06485) [Project](https://github.com/cesc-park/attend2u)</td>
