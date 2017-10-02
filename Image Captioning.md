@@ -1,9 +1,6 @@
 ## Image Captioning paper list:
 <tabel>
-  <tr>
-    <th colspan="2">Firstname</th>
-    <th>Lastname</th> 
-  </tr>
+ 
   <tr>
     <th >Firstname</th>
     <th>Lastname</th> 
