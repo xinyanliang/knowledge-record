@@ -1,8 +1,12 @@
 ## Image Captioning paper list:
 <table style="width:100%">
   <tr>
-    <th>Name</th>
-    <th colspan="2">Telephone</th>
+    <th colspan="3">Telephone</th>
+  </tr>
+  <tr>
+    <td>Bill Gates</td>
+    <td>55577854</td>
+    <td>55577855</td>
   </tr>
   <tr>
     <td>Bill Gates</td>
