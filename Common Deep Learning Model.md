@@ -17,7 +17,7 @@ Paper list.
 |7|![MDF](paper_image/a.png)| Inception-v4|__Inception-v4, inception-resnet and the impact of residual connections on learning__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__AAAI2017__|[PDF](https://arxiv.org/pdf/1602.07261.pdf) [code](https://github.com/cesc-park/attend2u) 解读|
 |8|![MDF](paper_image/a.png)| ResNets|__Deep residual learning for image recognition__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR2016__|[PDF](https://www.cvfoundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) [code](https://github.com/cesc-park/attend2u) 解读|
 |9|![MDF](paper_image/a.png)| ResNets|__Identity mappings in deep residual networks__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__ECCV2016__|[PDF](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_38) [code](https://github.com/cesc-park/attend2u) 解读|
-|10|![MDF](netimage/densenet.jpg)| DenseNets|__Densely Connected Convolutional Networks__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__ECCV2016__|[PDF](https://arxiv.org/pdf/1608.06993.pdf) [code](https://github.com/liuzhuang13/DenseNet) 解读|
+|10|![MDF](netimage/densenet.jpg)| DenseNets|__Densely Connected Convolutional Networks__|[Huang, Gao](http://www.cs.cornell.edu/~gaohuang/) and [Liu, Zhuang](https://liuzhuang13.github.io/) and van der Maaten, [Laurens and Weinberger](https://lvdmaaten.github.io/), [Kilian Q](https://www.cs.cornell.edu/~kilian/)|__CVPR2017__|[PDF](https://arxiv.org/pdf/1608.06993.pdf) [code](https://github.com/liuzhuang13/DenseNet) 解读|
 
 
  
