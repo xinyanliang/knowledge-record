@@ -21,4 +21,4 @@ Paper list.
 ## Others
 |No.  |Figure   |Title   |Authors  |Pub.  |Links| Datasets |
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![MDF](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF(http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) 解读||
+|1|![MDF](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF](http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) 解读||
