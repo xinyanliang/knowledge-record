@@ -1,7 +1,7 @@
 ## Image Captioning paper list:
 <table style="width:100%">
   <tr>
-    <td colspan="3">Bill Gates</td>
+    <td rowspan="3">Bill Gates</td>
     <td>1</td>
   </tr>
   <tr>
