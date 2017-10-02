@@ -13,7 +13,7 @@ Paper list.
 ## Image Captioning
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|
-|1|![MDF](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [Project](https://github.com/cesc-park/attend2u)|
+|1|![MDF](paper_image/attend2u_cvpr.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [Project](https://github.com/cesc-park/attend2u)|
 
 ## Others
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|
