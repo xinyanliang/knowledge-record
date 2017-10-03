@@ -24,7 +24,10 @@ Paper list.
 |13|![MDF](netimage/ResNeXt.png)| ResNeXt|__Aggregated Residual Transformations for Deep Neural Networks__|Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He|__[CVPR2017](http://www.cvpapers.com/cvpr2017.html)__|[PDF](https://arxiv.org/abs/1611.05431) [github](https://github.com/facebookresearch/ResNeXt) 解读|
 |14|![MDF](netimage/DRNs.png)| DRNs|__Dilated Residual Networks__|[Fisher Yu](http://www.yf.io/), Vladlen Koltun, Thomas Funkhouser|___[CVPR2017](http://www.cvpapers.com/cvpr2017.html)__|[PDF](https://arxiv.org/abs/1705.09914) [github](https://github.com/fyu/drn)| 解读|
 |15|![MDF](netimage/MobileNets.png)| MobileNets|__MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications__|Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam|__[CVPR2017](http://www.cvpapers.com/cvpr2017.html)__|[PDF](https://arxiv.org/pdf/1704.04861.pdf) [github](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.py)| 解读|
-|16|![MDF](netimage/__SqueezeDet.png)| __SqueezeDet__|__SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving__|Bichen Wu, Forrest Iandola, Peter H. Jin, Kurt Keutzer|__[CVPR2017](http://www.cvpapers.com/cvpr2017.html)__|[PDF](https://arxiv.org/abs/1612.01051) [github](https://github.com/BichenWuUCB/squeezeDet)| 解读|
+|16|![MDF](netimage/SqueezeDet.png)| __SqueezeDet__|__SqueezeDet: Unified, Small, Low Power Fully Convolutional Neural Networks for Real-Time Object Detection for Autonomous Driving__|Bichen Wu, Forrest Iandola, Peter H. Jin, Kurt Keutzer|__[CVPR2017](http://www.cvpapers.com/cvpr2017.html)__|[PDF](https://arxiv.org/abs/1612.01051) [github](https://github.com/BichenWuUCB/squeezeDet)| 解读|
+|17|![MDF](netimage/DCNs.png)| __DCNs__|__Multi-Scale Context Aggregation by Dilated Convolutions__|[Fisher Yu](http://www.yf.io/), Vladlen Koltun|__ICLR2016__|[PDF](https://arxiv.org/abs/1511.07122) [github](https://github.com/fyu/dilation)| 解读|
+
+
 
 
  
