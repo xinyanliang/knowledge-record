@@ -4,7 +4,7 @@
 
 ## Topics
 - [Multimodel](multimodal/Multimodal.md)
-- [Well-known Networks](Networks.md)
+- [Well-known Networks](netmodel/Networks.md)
 - [Others](others.md)
 
 
