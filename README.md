@@ -5,6 +5,8 @@
 ## Topics
 - [Multimodel](multimodal/Multimodal.md)
 - [Well-known Networks](netmodel/Networks.md)
+- [Code Collect](code-collect/code-collect.md)
+- [Datasets](datasets/datasets.md)
 - [Others](others.md)
 
 
