@@ -7,6 +7,7 @@
 - [Well-known Networks](netmodel/Networks.md)
 - [Code Collect](code_collect/code-collect.md)
 - [Datasets](datasets/datasets.md)
+- [Peoples](peoples/peoples.md)
 - [Others](others/others.md)
 - [About Me](about_me/aboutme.md)
 
