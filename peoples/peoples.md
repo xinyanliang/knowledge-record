@@ -5,7 +5,7 @@
 |Image  |Name   | Github
 |-----|:-----:|:-----:|
 |![MDF](peoples/samy_bengio_scholar.png)| [Samy Bengio](http://bengio.abracadoudou.com/)| |
-|![MDF](peoples/samy_bengio_scholar.png)| [Andrej karpathy](http://bengio.abracadoudou.com/)|[github](https://github.com/karpathy) |
+|![MDF](peoples/Andrej.png)| [Andrej karpathy](http://bengio.abracadoudou.com/)|[github](https://github.com/karpathy) |
 
 
 
