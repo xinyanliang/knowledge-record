@@ -5,12 +5,12 @@
 
 ## Topics
 - [The type of the edical images](#the-type-of-the-edical-images)
-- [Pipeline for the medical tasks](#Pipeline-for-the-medical-tasks)
-- [Papers](#PPapers)
-- [Lab](#Lab)
-- [People](#People)
-- [Datasets](#Datasets)
-- [Software](#Software)
+- [Pipeline for the medical tasks](#pipeline-for-the-medical-tasks)
+- [Papers](#papers)
+- [Lab](#lab)
+- [People](#people)
+- [Datasets](#datasets)
+- [Software](#software)
 
 
 
