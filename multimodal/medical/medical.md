@@ -17,8 +17,8 @@ is a nuclear medicine functional imaging technique that is used to observe metab
 
 ## Pipeline for the medical tasks
 <ul>
-<li>
-	<ul>Image preprocessing and feature extraction
+<li>Image preprocessing and feature extraction
+	<ul>
 		<li>skull-stripped </li>
 		<li>cerebellum-removed</li>
 	</ul>
