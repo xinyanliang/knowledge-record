@@ -4,7 +4,7 @@
 
 
 ## Topics
-- [The type of the edical images](#the-type-of-the-edical-images)
+- [The type of the edical images](#the-type-of-the-medical-images)
 - [Pipeline for the medical tasks](#pipeline-for-the-medical-tasks)
 - [Disease](#disease)
 - [Papers](#papers)
