@@ -6,7 +6,7 @@ My research interests include moltimodal data fusion, deep learning.
 
 If you are interested in contributing to this project, please contact me by liangxinyan48@163.com
 
-[homepage](xinyanliang.github.io)
+[homepage](http://xinyanliang.github.io)
 
 
 
