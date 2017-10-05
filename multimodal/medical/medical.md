@@ -21,9 +21,9 @@ is a nuclear medicine functional imaging technique that is used to observe metab
 	<ol>
 		<li>skull-stripped </li>
 		<li>cerebellum-removed</li>
-	</ul>
+	</ol>
 </li>
-</ul>
+</ol>
 
 ## Papers
 Paper list.
