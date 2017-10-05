@@ -1,10 +1,17 @@
-# Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
+# Medical ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 ## [Home](../../README.md)
 - The goal of this document is to provide a reading list in Medical.
 
 
 ## Topics
-- [Image Captioning](#image-captioning)
+- [The type of the edical images](#The type of the edical images)
+- [Pipeline for the medical tasks](#Pipeline for the medical tasks)
+- [Lab](#Lab)
+- [People](#People)
+- [Datasets](#Datasets)
+- [Software](#Software)
+
+
 
 ## The type of the edical images
 [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)(Magnetic resonance imaging)
@@ -28,10 +35,26 @@ is a nuclear medicine functional imaging technique that is used to observe metab
 ## Papers
 Paper list.
 
-## Image Captioning
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Show-and-Tell.png)|__Show and tell: A neural image caption generator__| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html), Alexander Toshev, [Samy Bengio](http://bengio.abracadoudou.com/), Dumitru Erhan|__CVPR 2015__|[Smile](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43274.pdf) <br/>解读| [COCO](http://cocodataset.org/#home)|
+|1|![Smile](paper_image/Show-and-Tell.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI(Inour experiments, we used baseline MRI and PET data obtained from202subjectsof51ADpatients,99MCIpatients5,and 52 healthy Normal Controls (NC).Including 43 MCI converters and 56 MCI non-converters)|
+
+## Lab
+[LONI](http://loni.usc.edu/) (Laboratory of Neuro Imaging) is in Keck School of Medicine of USC 
+[University of Southern California](https://www.usc.edu/).
+
+[MiLab](https://www.ku-milab.org/) (Machine Intelligence Laboratory at [Korea University](https://www.korea.edu/)) is devoted to the development of computational models and their applications to various researches in the brain and cognitive engineering field. Specifically, we focus on 1) pattern recognition and machine learning algorithms inspired from the neural information processing mechanism in a human brain, 2) brain disease diagnosis or prognosis by analyzing complex patterns inherent in neuroimaging or genetic data, and 3) non-invasive brain-computer interfaces to enhance human performance
+
+[IDEA Lab](http://www.med.unc.edu/bric/ideagroup/core-labs/idea-research-lab)
+
+## People
+
+## Datasets
+[Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) (ADNI) dataset.
+
+
+## Software
+[LONI](http://loni.usc.edu/Software/)
 
 
 
