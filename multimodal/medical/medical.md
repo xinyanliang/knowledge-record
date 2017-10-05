@@ -16,8 +16,15 @@ is a nuclear medicine functional imaging technique that is used to observe metab
 [Positron emission tomography–computed tomography](https://en.wikipedia.org/wiki/PET-CT) (better known as PET-CT or PET/CT) is a nuclear medicine technique which combines, in a single gantry, a positron emission tomography (PET) scanner and an x-ray computed tomography (CT) scanner, to acquire sequential images from both devices in the same session, which are combined into a single superposed (co-registered) image. Thus, functional imaging obtained by PET, which depicts the spatial distribution of metabolic or biochemical activity in the body can be more precisely aligned or correlated with anatomic imaging obtained by CT scanning. Two- and three-dimensional image reconstruction may be rendered as a function of a common software and control system.
 
 ## Pipeline for the medical tasks
+<ul>
+<li>
+	<ul>Image preprocessing and feature extraction
+		<li>skull-stripped </li>
+		<li>cerebellum-removed</li>
+	</ul>
+</li>
+</ul>
 
-1. Image preprocessing and feature extraction
 ## Papers
 Paper list.
 
