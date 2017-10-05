@@ -3,7 +3,7 @@
 
 
 ## Topics
-- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning](machine_learning/machine_learning.md)
 - [Multimodel](multimodal/Multimodal.md)
 - [Well-known Networks](netmodel/Networks.md)
 - [Code Collect](code_collect/code-collect.md)
