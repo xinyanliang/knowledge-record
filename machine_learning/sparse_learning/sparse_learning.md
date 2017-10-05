@@ -16,7 +16,7 @@
 ## tasks
 __Sparse representation based classification__ (SRC) seeks to represent the testing data with a sparse linear combination of training data. SRC assumes that, if sufficient training samples are available from each class, it is possible to represent each testing sample by a linear combination of a sparse subset of the training samples. The class label of the testing sample is assigned as the class with the minimum representation residual over all classes. 
 
-![](http://latex.codecogs.com/gif.latex?a_{2})
+![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 [Topics](#topics)
 
