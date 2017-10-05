@@ -5,6 +5,7 @@
 
 ## Topics
 - [Image Captioning](#image-captioning)
+- [Medical](medical/medical.md)
 - [Others](#others)
 
 
