@@ -37,13 +37,13 @@ Paper list.
 
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Show-and-Tell.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI(Inour experiments, we used baseline MRI and PET data obtained from202subjectsof51ADpatients,99MCIpatients5,and 52 healthy Normal Controls (NC).Including 43 MCI converters and 56 MCI non-converters)|
+|1|![Smile](paper_image/shiyinghuang2014cvpr.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI(Inour experiments, we used baseline MRI and PET data obtained from202subjectsof51ADpatients,99MCIpatients5,and 52 healthy Normal Controls (NC).Including 43 MCI converters and 56 MCI non-converters)|
 
 ## Lab
 [LONI](http://loni.usc.edu/) (Laboratory of Neuro Imaging) is in Keck School of Medicine of USC 
 [University of Southern California](https://www.usc.edu/).
 
-[MiLab](https://www.ku-milab.org/) (Machine Intelligence Laboratory at [Korea University](https://www.korea.edu/)) is devoted to the development of computational models and their applications to various researches in the brain and cognitive engineering field. Specifically, we focus on 1) pattern recognition and machine learning algorithms inspired from the neural information processing mechanism in a human brain, 2) brain disease diagnosis or prognosis by analyzing complex patterns inherent in neuroimaging or genetic data, and 3) non-invasive brain-computer interfaces to enhance human performance
+[MiLab](https://www.ku-milab.org/) (Machine Intelligence Laboratory at [Korea University](https://www.korea.edu/)) is devoted to the development of computational models and their applications to various researches in the brain and cognitive engineering field. Specifically, we focus on 1) pattern recognition and machine learning algorithms inspired from the neural information processing mechanism in a human brain, 2) brain disease diagnosis or prognosis by analyzing complex patterns inherent in neuroimaging or genetic data, and 3) non-invasive brain-computer interfaces to enhance human performance.
 
 [IDEA Lab](http://www.med.unc.edu/bric/ideagroup/core-labs/idea-research-lab)
 
