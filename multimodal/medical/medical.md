@@ -4,8 +4,8 @@
 
 
 ## Topics
-- [The type of the edical images](#The type of the edical images)
-- [Pipeline for the medical tasks](#Pipeline for the medical tasks)
+- [The type of the edical images](#The-type-of-the-edical-images)
+- [Pipeline for the medical tasks](#Pipeline-for-the-medical-tasks)
 - [Lab](#Lab)
 - [People](#People)
 - [Datasets](#Datasets)
