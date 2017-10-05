@@ -37,7 +37,7 @@ Paper list.
 
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/shiyinghuang2014cvpr.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI(Inour experiments, we used baseline MRI and PET data obtained from202subjectsof51ADpatients,99MCIpatients5,and 52 healthy Normal Controls (NC).Including 43 MCI converters and 56 MCI non-converters)|
+|1|![Smile](paper_image/shiyinghuang2014cvpr.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI|
 
 ## Lab
 [LONI](http://loni.usc.edu/) (Laboratory of Neuro Imaging) is in Keck School of Medicine of USC 
