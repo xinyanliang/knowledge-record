@@ -8,7 +8,7 @@ os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,4"
 ````
 
 ### 通过制定种子使得代码结果重现
-```
+``` python
 import numpy as np
 from numpy.random import seed
 seed(1)
