@@ -7,6 +7,11 @@ import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,4"
 ````
 
+### Keras通过Tensorflow实现GPU并行
+
+[参考1](http://blog.csdn.net/u010159842/article/details/59104029)
+[参考2](https://www.tensorflow.org/deploy/distributed)
+
 ### 通过制定种子使得代码结果重现
 ``` python
 import numpy as np
