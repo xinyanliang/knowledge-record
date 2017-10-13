@@ -20,7 +20,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-### Below program loads an image in grayscale, displays it, save the image if you press ‘s’ and exit, or simply exit without saving if you press ESC key.
+### 以灰度图加载一个图，显示它，如果按s保存图并退出，按ESC键不保存退出.
 ``` python
 import numpy as np
 import cv2
@@ -33,4 +33,16 @@ if k == 27:         # wait for ESC key to exit
 elif k == ord('s'): # wait for 's' key to save and exit
     cv2.imwrite('messigray.png',img)
     cv2.destroyAllWindows()
+```
+
+### 使用matplotlib
+``` python
+import numpy as np
+import cv2
+from matplotlib import pyplot as plt
+
+img = cv2.imread('messi5.jpg',0)
+plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
+plt.xticks([]), plt.yticks([])  # to hide tick values on X and Y axis
+plt.show()
 ```
