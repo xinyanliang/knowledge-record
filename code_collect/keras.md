@@ -20,3 +20,13 @@ seed(1)
 from tensorflow import set_random_seed
 set_random_seed(2)
 ```
+
+### tensorflow的tensor与numpy的ndarray转化
+
+``` python
+import tensorflow as tf
+# convert tensor into ndarray
+tf.Session().run(tensor)
+#convert ndarray into tensor
+tf.convert_to_tensor(img.eval())
+```
