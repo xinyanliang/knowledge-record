@@ -44,3 +44,17 @@ if __name__ == "__main__":
     anim.save('line.mp4', dpi=80,writer=FFwriter)
     plt.show()
 ```
+
+### [彩色映射散点图](http://codingpy.com/article/a-quick-intro-to-matplotlib/)
+
+``` python
+import matplotlib.pyplot as plt
+import numpy as np
+x = np.random.rand(1000)
+y = np.random.rand(1000)
+size = np.random.rand(1000) * 50
+colour = np.random.rand(1000)
+plt.scatter(x, y, size, colour)
+plt.colorbar()
+plt.show()
+```
