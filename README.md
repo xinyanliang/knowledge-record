@@ -7,7 +7,7 @@
 - [Multimodel](multimodal/Multimodal.md)
 - [Well-known Networks](netmodel/Networks.md)
 - [Conference/Journal](links/Conference_Journal.md)
-- [Code Collect](code_collect/code-collect.md)
+- [Code Collect](code_collect/readme.md)
 - [Datasets](datasets/datasets.md)
 - [Peoples](peoples/peoples.md)
 - [Others](others/other.md)
