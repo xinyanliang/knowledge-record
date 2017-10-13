@@ -5,7 +5,7 @@
 
 ### 深度学习
 - [keras](keras.md)
-- tensorflow
-- mxnet
+- [tensorflow](tensorflow.md)
+- [mxnet](mxnet.md)
 
 - [others](collect-code.md)
