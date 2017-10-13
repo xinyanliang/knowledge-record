@@ -3,7 +3,7 @@
 [参考](http://www.bijishequ.com/detail/461561)
 ``` python
 import os
-#制定GPU 0, 1, 4
+#指定程序在GPU 0, 1, 4运行
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,4"
 ````
 
