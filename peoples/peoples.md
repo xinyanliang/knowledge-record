@@ -11,7 +11,6 @@
 |![Smile](peoples/ylc-thumb.png)| [Yann Lecun](http://yann.lecun.com/)|[CILVR Lab](https://wp.nyu.edu/cilvr/)| |
 |![Smile](peoples/Yoshua_Bengio.png)| [Yoshua Bengio](https://mila.quebec/personne/bengio-yoshua/)|[MILA](https://mila.quebec/)| |
 |![Smile](peoples/AndrewNg.png)| [Andrew Ng](http://www.andrewng.org/)| [Group](http://www.andrewng.org/my-group/) <br/> [Google+](https://plus.google.com/113710395888978478005)| |
-=======
 |![Smile](peoples/ylc-thumb.png)| [Yann Lecun](http://yann.lecun.com/)|[CILVR Lab](https://wp.nyu.edu/cilvr/) | |
 |![Smile](peoples/Yoshua_Bengio.png)| [Yoshua Bengio](https://mila.quebec/personne/bengio-yoshua/)|[MILA](https://mila.quebec/) <br/> [Google Scholar](https://scholar.google.com/citations?user=kukA0LcAAAAJ) <br/> [github](https://github.com/yoshua)| |
 >>>>>>> e2e77834c6902f71e5369301895b07595b7e9e50
