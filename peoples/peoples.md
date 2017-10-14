@@ -19,4 +19,7 @@
 
 [Deep Learning Research Groups](http://deeplearning.net/deep-learning-research-groups-and-labs/)
 
+[datasets1](http://www.jianshu.com/p/9990284bc4d5)
+[datasets2](http://deeplearning.net/datasets/)
+
 
