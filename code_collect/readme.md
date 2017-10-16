@@ -12,3 +12,6 @@
 
 ### 自然语言
 - [nltk](nltk.md)
+
+### 音频
+- [librosa](librosa.md)
