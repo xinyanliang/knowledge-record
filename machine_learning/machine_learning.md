@@ -3,5 +3,5 @@
 
 ## Topics
 - [Sparse Learning](sparse_learning/sparse_learning.md)
-
-
+- [Semi supervised Learning](semi_supervised/semi_supervised.md)
+- [Partial Labels Learning.md](partial_labels_learning/partial_labels_learning.md)
