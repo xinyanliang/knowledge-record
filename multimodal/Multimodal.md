@@ -41,7 +41,7 @@ Paper list.
 ## Human Pose Estimation
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Show-and-Tell.png)|__MODEC: Multimodal Decomposable Models for Human Pose Estimation
+|1|![Smile](paper_image/PLL_.png.png)|__MODEC: Multimodal Decomposable Models for Human Pose Estimation
 __| Ben Sapp, Ben Taskar|__CVPR 2013__|[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sapp_MODEC_Multimodal_Decomposable_2013_CVPR_paper.pdf) <br/>解读| 
 
 ## Others
