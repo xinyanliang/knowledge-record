@@ -6,7 +6,8 @@
 ## Topics
 - [Image Captioning](#image-captioning)
 - [Video Descriptions](#video-descriptions)
-- [Visual Question-Answer (VQA)](#vvisual-question-answer)
+- [Visual Question-Answer (VQA)](#visual-question-answer)
+- [Human Pose Estimation](#human_pose_estimation)
 - [Medical](medical/medical.md)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
@@ -37,8 +38,14 @@ Paper list.
 
 ##Visual Question-Answer
 
+## Human Pose Estimation
+|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
+|1|![Smile](paper_image/Show-and-Tell.png)|__MODEC: Multimodal Decomposable Models for Human Pose Estimation
+__| Ben Sapp, Ben Taskar|__CVPR 2013__|[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sapp_MODEC_Multimodal_Decomposable_2013_CVPR_paper.pdf) <br/>解读| 
 
 ## Others
 |No.  |Figure   |Title   |Authors  |Pub.  |Links| Datasets |
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF](http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) 解读||
+

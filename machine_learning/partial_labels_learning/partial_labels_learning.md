@@ -25,7 +25,7 @@ Paper list.
 
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Robust_Face_Recognition_via_Sparse_Representation.png)|__Robust Face Recognition via Sparse Representation__|[John Wright](http://www.columbia.edu/~jw2966/), [Allen Y. Yang](https://people.eecs.berkeley.edu/~yang/), Arvind Ganesh, S. Shankar Sastry, and [Yi Ma](http://yima.csl.illinois.edu/)|__[PAMI 2009](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)__|[PDF](http://www.columbia.edu/~jw2966/papers/WYGSM09-PAMI.pdf) <br/> [PPT](http://www.cmlab.csie.ntu.edu.tw/~known/known200611/slides/%5B200810%5DRobust%20Face%20Recognition%20via%20Sparse%20Representation-zz.pdf) <br/> [Home](http://perception.csl.illinois.edu/recognition/Home.html)| |
+|1|![Smile](paper_image/Robust_Face_Recognition_via_Sparse_Representation.png)|__Learning from Partial Labels__|[Timothee Cour](http://www.timotheecour.com/) [Benjamin Sapp](https://scholar.google.com.hk/citations?hl=zh-CN&user=aPqcyU4AAAAJ&view_op=list_works&sortby=pubdate) [Benjamin Sapp](https://scholar.google.com.hk/citations?hl=zh-CN&user=ygFAcZwAAAAJ&view_op=list_works&sortby=pubdate)|__[JMLR 2011](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)__|[PDF](http://www.jmlr.org/papers/volume12/cour11a/cour11a.pdf)| |
 
 [Topics](#topics)
 
