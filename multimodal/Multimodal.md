@@ -2,8 +2,8 @@
 ## [Home](../README.md)
 - The goal of this document is to provide a reading list in Multimodal learning.
 
-
 ## Topics
+- [Cross-modal retrieval](#cross-modal-retrieval)
 - [Image Captioning](#image-captioning)
 - [Video Descriptions](#video-descriptions)
 - [Visual Question-Answer (VQA)](#visual-question-answer)
@@ -22,6 +22,10 @@
 
 ## Papers
 Paper list.
+
+## Cross-modal retrieval
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
+|1|![Smile](paper_image/deep_cross_modal_hashing.png)|__Deep Cross-Modal Hashing__| [Qing-Yuan Jiang](http://lamda.nju.edu.cn/jiangqy/) and [Wu-Jun Li](https://cs.nju.edu.cn/lwj/)|__CVPR 2017__|[PDF](http://lamda.nju.edu.cn/jiangqy/paper/CVPR17_DCMH.pdf) <br/>解读| [MIRFLICKR-25K]()<br/>[NUS-WIDE]()<br/>[IAPR TC-12]()|
 
 ## Image Captioning
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
