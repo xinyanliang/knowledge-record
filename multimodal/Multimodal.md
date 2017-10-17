@@ -24,6 +24,7 @@
 Paper list.
 
 ## Cross-modal retrieval
+|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/deep_cross_modal_hashing.png)|__Deep Cross-Modal Hashing__| [Qing-Yuan Jiang](http://lamda.nju.edu.cn/jiangqy/) and [Wu-Jun Li](https://cs.nju.edu.cn/lwj/)|__CVPR 2017__|[PDF](http://lamda.nju.edu.cn/jiangqy/paper/CVPR17_DCMH.pdf) <br/>解读| [MIRFLICKR-25K]()<br/>[NUS-WIDE]()<br/>[IAPR TC-12]()|
 
