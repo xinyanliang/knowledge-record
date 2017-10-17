@@ -8,6 +8,7 @@
 - [Video Descriptions](#video-descriptions)
 - [Visual Question-Answer (VQA)](#visual-question-answer)
 - [Human Pose Estimation](#human_pose_estimation)
+- [Emotion]()
 - [Medical](medical/medical.md)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
@@ -44,8 +45,20 @@ Paper list.
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/PLL_.png)|__MODEC: Multimodal Decomposable Models for Human Pose Estimation__| Ben Sapp, Ben Taskar|__CVPR 2013__|[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sapp_MODEC_Multimodal_Decomposable_2013_CVPR_paper.pdf) <br/>解读| 
 
+## Emotion
+|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
+|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
+|1|![Smile](paper_image/PLL_.png)|__MODEC: Multimodal Decomposable Models for Human Pose Estimation__| Ben Sapp, Ben Taskar|__CVPR 2013__|[PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sapp_MODEC_Multimodal_Decomposable_2013_CVPR_paper.pdf) <br/>解读|
+
 ## Others
 |No.  |Figure   |Title   |Authors  |Pub.  |Links| Datasets |
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](image/MDF.png)|__Jointly Learning Energy Expenditures and Activities using Egocentric Multimoda__|Nakamura, Katsuyuki; Yeung, Serena; Alahi, Alexandre; [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017)|__CVPR 2017__|[PDF](http://vision.stanford.edu/pdf/nakamura2017cvpr.pdf) 解读||
+|1|![Smile](image/Deep_Bimodal_Regression_of_Apparent_Personality_Traits_from_Short_Video_Sequences.png)|__Deep Bimodal Regression of Apparent Personality Traits from Short Video Sequences__|[Xiu-Shen Wei](http://210.28.132.67/weixs/?AspxAutoDetectCookieSupport=1), [Chen-Lin Zhang}(http://210.28.132.67/zhangcl/), [Hao Zhang](http://210.28.132.67/zhangh/), and [Jianxin Wu](https://cs.nju.edu.cn/wujx/) |__IEEE Transactions on Affective Computing 2017__|[PDF](http://lamda.nju.edu.cn/weixs/publication/tac17.pdf) [Projeact](http://lamda.nju.edu.cn/weixs/project/APA/APA.html)||
+
+
+### 关注的人
+LAMDA团队
+
+[蒋庆远](http://lamda.nju.edu.cn/jiangqy/)
+[吴建鑫](https://cs.nju.edu.cn/wujx/)
 
