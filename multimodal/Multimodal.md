@@ -66,4 +66,5 @@ LAMDA团队
 
 [蒋庆远](http://lamda.nju.edu.cn/jiangqy/)
 [吴建鑫](https://cs.nju.edu.cn/wujx/)
+[叶翰嘉](http://lamda.nju.edu.cn/yehj/)
 
