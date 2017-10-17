@@ -16,6 +16,7 @@
 |![Smile](peoples/pin-feifei.png)| [Feifei Li](http://vision.stanford.edu/feifeili/)| [Vision Lab](http://vision.stanford.edu/)| [Course home](http://cs231n.stanford.edu/)[Chinese](http://study.163.com/course/introduction/1003223001.htm) [English](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)|
 |![Smile](peoples/Andrej.png)| [Andrej karpathy](http://bengio.abracadoudou.com/)|[github](https://github.com/karpathy) | |
 |![Smile](peoples/Justin_Johnson.png)| [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)|[github](https://github.com/jcjohnson) | |
+|![Smile](peoples/Svetlana_Lazebnik.png)| [Svetlana Lazebnik](http://web.engr.illinois.edu/~slazebni/)|| |
 
 [Deep Learning Research Groups](http://deeplearning.net/deep-learning-research-groups-and-labs/)
 
