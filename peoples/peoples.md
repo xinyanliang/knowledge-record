@@ -11,8 +11,8 @@
 |![Smile](peoples/Yoshua_Bengio.png)| [Yoshua Bengio](https://mila.quebec/personne/bengio-yoshua/)|[MILA](https://mila.quebec/)| |
 |![Smile](peoples/AndrewNg.png)| [Andrew Ng](http://www.andrewng.org/)| [Group](http://www.andrewng.org/my-group/) <br/> [Google+](https://plus.google.com/113710395888978478005)| |
 |![Smile](peoples/samy_bengio_scholar.png)| [Samy Bengio](http://bengio.abracadoudou.com/)| | |
-|![Smile](peoples/pin-feifei.png)| [Feifei Li](http://vision.stanford.edu/feifeili/)| [Vision Lab](http://vision.stanford.edu/)| [Course home](http://cs231n.stanford.edu/)[Chinese](http://study.163.com/course/introduction/1003223001.htm) [English](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)|
-|![Smile](peoples/christopher_manning.png)| [Christopher Manning](https://nlp.stanford.edu/manning/)| [stanford nlp group](https://nlp.stanford.edu/people/)|[278](http://web.stanford.edu/class/linguist278/)|
+|![Smile](peoples/pin-feifei.png)| [Feifei Li](http://vision.stanford.edu/feifeili/)| [Vision Lab](http://vision.stanford.edu/)| [cs231n home](http://cs231n.stanford.edu/)[Chinese](http://study.163.com/course/introduction/1003223001.htm) [English](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)|
+|![Smile](peoples/christopher_manning.png)| [Christopher Manning](https://nlp.stanford.edu/manning/)| [stanford nlp group](https://nlp.stanford.edu/people/)|[cs224n](https://web.stanford.edu/class/cs224n/)[278](http://web.stanford.edu/class/linguist278/)|
 |![Smile](peoples/Andrej.png)| [Andrej karpathy](http://bengio.abracadoudou.com/)|[github](https://github.com/karpathy) | |
 |![Smile](peoples/Justin_Johnson.png)| [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)|[github](https://github.com/jcjohnson) | |
 |![Smile](peoples/Svetlana_Lazebnik.png)| [Svetlana Lazebnik](http://web.engr.illinois.edu/~slazebni/)|| |
