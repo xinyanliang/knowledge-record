@@ -45,6 +45,8 @@ Paper list.
 |1|![Smile](paper_image/Jointly-Learning-Energy-Expenditures-and-Activities-using-Egocentric-Multimoda.png)|__Attend to You: Personalized Image Captioning with Context Sequence Memory Networks__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [code](https://github.com/cesc-park/attend2u) 解读|[IntaPIC-1.1M Json](https://drive.google.com/uc?export=download&id=0B3xszfcsfVUBdG0tU3BOQWV0a0E) [IntaPIC-1.1M Image](https://drive.google.com/ucexport=download&id=0B3xszfcsfVUBVkZGU2oxYVl6aDA)|
 |2|![Smile](paper_image/Dense-Captioning-Events-in-Videos.png)|__Dense-Captioning Events in Videos__|Ranjay Krishna, Kenji Hata, Frederic Ren, [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017), Juan Carlos Niebles|__CVPR 2017__|[PDF](https://arxiv.org/abs/1705.00754) [Project](http://cs.stanford.edu/people/ranjaykrishna/densevid/) 解读|[ActivityNet Captions](http://cs.stanford.edu/people/ranjaykrishna/densevid/captions.zip)|
 |3|![Smile](paper_image/Knowing_when_to_look_CVPR2017.png)|__Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning__|Jiasen Lu, Caiming Xiong, Devi Parikh, [Richard Socher](http://www.socher.org/)|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1612.01887.pdf)||
+|4|![Smile](paper_image/SCA-CNN.png)|__SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning__|Long Chen, Hanwang Zhang, Jun Xiao, Liqiang Nie, Jian Shao, Wei Liu, Tat-Seng Chua|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1611.05594.pdf)||
+
 
 
 ### 2016
