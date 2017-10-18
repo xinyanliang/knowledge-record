@@ -87,12 +87,13 @@ Paper list.
 ### 2012
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_imageConvolutional_Recursive_deep_learning_for_3D_object_classification_nips2012.png.png)|__Convolutional-Recursive Deep Learning for 3D Object Classification__|[Richard Socher](http://www.socher.org/), Brody Huval, Bharath Bhat, Christopher D. Manning, Andrew Y. Ng |__NIPS 2012__|[PDF](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf) [Projeact](http://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification)||
+|1|![Smile](paper_image/Convolutional_Recursive_deep_learning_for_3D_object_classification_nips2012.png)|__Convolutional-Recursive Deep Learning for 3D Object Classification__|[Richard Socher](http://www.socher.org/), Brody Huval, Bharath Bhat, Christopher D. Manning, Andrew Y. Ng |__NIPS 2012__|[PDF](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf) [Projeact](http://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification)||
 
 ## Others
-|No.  |Figure   |Title   |Authors  |Pub.  |Links| Datasets |
+### 2013
+|No.  |Figure   |Title   |Authors  |Pub.  |Links| Datasets |
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-
+|1|![Smile](paper_image/zero_shotting_cross_modal_transfer_learning.png)|__Zero-Shot Learning Through Cross-Modal Transfer__|[Richard Socher](http://www.socher.org/)and Milind Ganjoo and Christopher D. Manning and Andrew Y. Ng |__NIPS 2013__|[PDF](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf) [Projeact](http://www.socher.org/index.php/Main/Zero-ShotLearningThroughCross-ModalTransfer)||
 
 
 ### 关注的人
