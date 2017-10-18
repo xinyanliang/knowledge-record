@@ -10,6 +10,7 @@
 - [Code Collect](code_collect/readme.md)
 - [Datasets](datasets/datasets.md)
 - [Peoples](peoples/peoples.md)
+- [Stanford AI Courses](http://ai.stanford.edu/courses/)
 - [Others](others/other.md)
 - [About Me](about_me/aboutme.md)
 
