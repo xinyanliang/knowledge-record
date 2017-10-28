@@ -33,8 +33,7 @@ Paper list.
 
 |No.  |Figure   |Net Name |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](netimage/merge_and_run_network)|DMRNet|__Deep Convolutional Neural Networks with Merge-and-Run Mappings__|Liming Zhao,
-Jingdong Wang, Xi Li, Zhuowen Tu, Wenjun Zeng|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1611.07718.pdf) [Project](https://github.com/zlmzju/fusenet) |
+|1|![Smile](netimage/merge_and_run_network)|DMRNet|__Deep Convolutional Neural Networks with Merge-and-Run Mappings__|Liming Zhao, Jingdong Wang, Xi Li, Zhuowen Tu, Wenjun Zeng |__CVPR 2017__|[PDF](https://arxiv.org/pdf/1611.07718.pdf) [Project](https://github.com/zlmzju/fusenet) |
 
  
 
