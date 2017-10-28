@@ -30,10 +30,11 @@ Paper list.
 |18|![Smile](netimage/DCNs.png)| __DCNs__|__Multi-Scale Context Aggregation by Dilated Convolutions__|[Fisher Yu](http://www.yf.io/), Vladlen Koltun|__ICLR2016__|[PDF](https://arxiv.org/abs/1511.07122) [github](https://github.com/fyu/dilation)| 解读|
 
 [2017]
+
 |No.  |Figure   |Net Name |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](netimage/merge_and_run_network)|DMRNet|__Deep Convolutional Neural Networks with Merge-and-Run Mappings__|Liming Zhao,
-Jingdong Wang, Xi Li, Zhuowen Tu, Wenjun Zeng|__CVPR2017__|[PDF](https://arxiv.org/pdf/1611.07718.pdf) [Project](https://github.com/zlmzju/fusenet) |
+Jingdong Wang, Xi Li, Zhuowen Tu, Wenjun Zeng|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1611.07718.pdf) [Project](https://github.com/zlmzju/fusenet) |
 
  
 
