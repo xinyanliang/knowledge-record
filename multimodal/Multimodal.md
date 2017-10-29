@@ -106,3 +106,6 @@ LAMDA团队
 [吴建鑫](https://cs.nju.edu.cn/wujx/)
 [叶翰嘉](http://lamda.nju.edu.cn/yehj/)
 
+
+[赫　然](http://www.cebs.ac.cn/duiwu_teacher.php?id=57)
+
