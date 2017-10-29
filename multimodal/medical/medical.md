@@ -90,3 +90,4 @@ Paper list.
 
 ## others
 [刘勇](http://www.cebs.ac.cn/duiwu_teacher.php?id=88) 
+[隋婧](http://www.cebs.ac.cn/duiwu_teacher.php?id=66)
