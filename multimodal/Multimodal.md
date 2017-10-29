@@ -99,6 +99,10 @@ Paper list.
 |1|![Smile](paper_image/zero_shotting_cross_modal_transfer_learning.png)|__Zero-Shot Learning Through Cross-Modal Transfer__|[Richard Socher](http://www.socher.org/)and Milind Ganjoo and [Christopher D. Manning](https://nlp.stanford.edu/manning/) and Andrew Y. Ng |__NIPS 2013__|[PDF](https://nlp.stanford.edu/~socherr/SocherGanjooManningNg_NIPS2013.pdf) [Projeact](http://www.socher.org/index.php/Main/Zero-ShotLearningThroughCross-ModalTransfer)||
 
 
+### 团队
+
+[中科院模式识别国家重点实验室](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
+
 ### 关注的人
 LAMDA团队
 
@@ -108,4 +112,5 @@ LAMDA团队
 
 
 [赫　然](http://www.cebs.ac.cn/duiwu_teacher.php?id=57)
+[王　亮](http://www.cebs.ac.cn/duiwu_teacher.php?id=69)
 
