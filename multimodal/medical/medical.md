@@ -86,3 +86,7 @@ Paper list.
 [医学影像学习](http://www.yxppt.com/)
 
 [Topics](#topics)
+
+
+## others
+[刘勇](http://www.cebs.ac.cn/duiwu_teacher.php?id=88) 
