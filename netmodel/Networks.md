@@ -41,6 +41,7 @@ Paper list.
 
 
 [经典]
+
 |No.  |Figure   |Net Name |Title   |Authors  |Pub.  |Links|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](netimage/LeNets.png)|LeNet|__Gradient-based learning applied to document recognition__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__Proceedings of the IEEE 1998__|[PDF](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) [Project](http://yann.lecun.com/exdb/lenet/)  解读|
