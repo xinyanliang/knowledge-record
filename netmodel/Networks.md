@@ -30,6 +30,7 @@ Paper list.
 |2|![Smile](netimage/ResNet.png)| ResNets|__Deep residual learning for image recognition__|Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun|__CVPR2016__|[PDF](https://www.cvfoundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) [github](https://github.com/KaimingHe/deep-residual-networks) 解读|
 |3|![Smile](netimage/ResNetsv2.png)| ResNets|__Identity mappings in deep residual networks__|Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun|__ECCV2016__|[PDF](https://arxiv.org/abs/1603.05027) [code](https://github.com/facebook/fb.resnet.torch) 解读|
 |4|![Smile](netimage/DCNs.png)| __DCNs__|__Multi-Scale Context Aggregation by Dilated Convolutions__|[Fisher Yu](http://www.yf.io/), Vladlen Koltun|__ICLR2016__|[PDF](https://arxiv.org/abs/1511.07122) [github](https://github.com/fyu/dilation)| 解读|
+|5|![Smile](netimage/2016filtergroup.png)| __Filter Groups__|__Deep Roots: Improving CNN Efficiency with Hierarchical Filter Groups__|Yani Ioannou, Duncan Robertson, Roberto Cipolla,Antonio Criminisi|____|[PDF](https://arxiv.org/pdf/1605.06489.pdf) [github]| 解读|
 
 [2015]
 
