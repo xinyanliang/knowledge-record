@@ -37,6 +37,8 @@ Paper list.
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/Learning_Deep_Structure-Preserving_Image-Text_Embeddings.png)|__Learning Deep Structure-Preserving Image-Text Embeddings__| L. Wang, Y. Li, and [S. Lazebnik](http://web.engr.illinois.edu/~slazebni/)|__CVPR 2016__|[PDF](http://web.engr.illinois.edu/~slazebni/publications/cvpr16_structure.pdf)||
+|2|![Smile](paper_image/Learning_Deep_Structure-Preserving_Image-Text_Embeddings.png)|__A Comprehensive Survey on Cross-modal
+Retrieval__|Kaiye Wang, Qiyue Yin, Wei Wang, Shu Wu, Liang Wang|____|[PDF](https://arxiv.org/pdf/1607.06215.pdf)||
 
 ## Image Captioning
 
