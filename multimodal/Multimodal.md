@@ -106,7 +106,10 @@ Paper list.
 ### 团队
 
 [中科院模式识别国家重点实验室](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
+
 [MultiComp Lab of University of Southern California (USC)](http://multicomp.ict.usc.edu/)
+
+[MultiComp Lab of Carnegie Mellon University](http://multicomp.cs.cmu.edu/)
 
 ### 关注的人
 LAMDA团队
