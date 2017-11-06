@@ -74,6 +74,7 @@ Paper list.
 ## Visual Question-Answer
 
 [VQA Challenge](http://visualqa.org/)
+[other resource](https://github.com/JamesChuanggg/awesome-vqa)
 
 ## Human Pose Estimation
 
