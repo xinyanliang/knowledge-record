@@ -3,6 +3,9 @@
 - 记录经典的深度学习模型.
 
 [tensorflow](https://github.com/tensorflow)实现[model](https://github.com/tensorflow/models/tree/master/research/slim)
+
+[Well-classified deep learning reading list](https://github.com/robertsdionne/neural-network-papers)
+
 ## Papers
 Paper list.
 
