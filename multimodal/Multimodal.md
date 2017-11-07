@@ -113,6 +113,9 @@ Paper list.
 [MultiComp Lab of Carnegie Mellon University](http://multicomp.cs.cmu.edu/)
 
 ### 关注的人
+
+[杨敏](http://minyang.me/)
+
 LAMDA团队
 
 [蒋庆远](http://lamda.nju.edu.cn/jiangqy/)
