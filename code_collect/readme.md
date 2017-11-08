@@ -4,6 +4,7 @@
 - [seaborn](seaborn.md)
 
 ### 深度学习
+- [GPU install](gpu_install.md)
 - [keras](keras.md)
 - [tensorflow](tensorflow.md)
 - [mxnet](mxnet.md)
