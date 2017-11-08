@@ -16,6 +16,8 @@
 |![Smile](peoples/Andrej.png)| [Andrej karpathy](http://bengio.abracadoudou.com/)|[github](https://github.com/karpathy) | |
 |![Smile](peoples/Justin_Johnson.png)| [Justin Johnson](http://cs.stanford.edu/people/jcjohns/)|[github](https://github.com/jcjohnson) | |
 |![Smile](peoples/Svetlana_Lazebnik.png)| [Svetlana Lazebnik](http://web.engr.illinois.edu/~slazebni/)|| |
+|![Smile](peoples/Jason_Yosinski.png)| [Jason Yosinski](http://yosinski.com/)|Research focuses on training and understanding neural networks and figuring out how to make them better| |
+
 
 [Deep Learning Research Groups](http://deeplearning.net/deep-learning-research-groups-and-labs/)
 
