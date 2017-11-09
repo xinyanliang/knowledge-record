@@ -1,3 +1,6 @@
+### python
+- [list,dic,str操作](python_list_dic.md)
+
 ### 图像处理及画图相关
 - [opencv-python](opencv.md)
 - [matplotlib](matplotlib.md)
