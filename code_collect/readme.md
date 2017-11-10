@@ -24,4 +24,4 @@
 
 ### others
 
-- [scipy](http://www.jianshu.com/p/9f336007582f)
+- [scipy](http://www.jianshu.com/p/d55aff908fc4)
