@@ -39,3 +39,7 @@ __[NIPS](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processi
 
 [IEEE Transactions on Image Processing](http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83#AimsScope) 2区 top
 > The IEEE Transactions on Image Processing covers novel theory, algorithms, and architectures for the formation, capture, processing, communication, analysis, and display of images, video, and multidimensional signals in a wide variety of applications. Topics of interest include, but are not limited to, the mathematical, statistical, and perceptual modeling, representation, formation, coding, filtering, enhancement, restoration, rendering, halftoning, search, and __analysis of images, video, and multidimensional signals__. Applications of interest include image and video communications, electronic imaging, biomedical imaging, image and video systems, and remote sensing.
+
+
+[IEEE Transactions on Neural Networks and Learning Systems](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) 1区 top
+>IEEE Transactions on Neural Networks and Learning Systems publishes technical articles that deal with the theory, design, and applications of neural networks and related learning systems. Emphasis will be given to artificial neural networks and learning systems.
