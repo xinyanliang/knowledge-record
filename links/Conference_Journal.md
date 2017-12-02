@@ -36,3 +36,6 @@ __[NIPS](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processi
 
 [2018]() [2017](https://nips.cc/Conferences/2017/) [2016](https://nips.cc/Conferences/2016) [2015](https://nips.cc/Conferences/2015) [2014](https://nips.cc/Conferences/2014) [2013](https://nips.cc/Conferences/2013) [2012](https://nips.cc/Conferences/2012)[2011](https://nips.cc/Conferences/2011) [2010](https://nips.cc/Conferences/2010)
 ## Journal
+
+[IEEE Transactions on Image Processing](http://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=83#AimsScope)
+> The IEEE Transactions on Image Processing covers novel theory, algorithms, and architectures for the formation, capture, processing, communication, analysis, and display of images, video, and multidimensional signals in a wide variety of applications. Topics of interest include, but are not limited to, the mathematical, statistical, and perceptual modeling, representation, formation, coding, filtering, enhancement, restoration, rendering, halftoning, search, and __analysis of images, video, and multidimensional signals__. Applications of interest include image and video communications, electronic imaging, biomedical imaging, image and video systems, and remote sensing.
