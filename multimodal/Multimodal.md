@@ -11,6 +11,7 @@
 - [Emotion](#emotion)
 - [Medical](medical/medical.md)
 - [3D Object Classification](#3d_object_classification)
+- [Audio](#audio)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
 
@@ -96,6 +97,9 @@ Paper list.
 |No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/Convolutional_Recursive_deep_learning_for_3D_object_classification_nips2012.png)|__Convolutional-Recursive Deep Learning for 3D Object Classification__|[Richard Socher](http://www.socher.org/), Brody Huval, Bharath Bhat, [Christopher D. Manning](https://nlp.stanford.edu/manning/), Andrew Y. Ng |__NIPS 2012__|[PDF](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf) [Projeact](http://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification)||
+
+## Audio
+[Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
 
 ## Others
 ### 2013
