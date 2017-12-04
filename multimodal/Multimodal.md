@@ -104,7 +104,7 @@ Paper list.
 [2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 
 ## Video
-[2015:C3D](https://arxiv.org/pdf/1412.0767.pdf)
+[2015:C3D](https://arxiv.org/pdf/1412.0767.pdf) [keras code](https://gist.github.com/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2)
 
 [2017:Res3D](https://arxiv.org/pdf/1708.05038.pdf)
 
