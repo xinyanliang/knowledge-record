@@ -12,6 +12,7 @@
 - [Medical](medical/medical.md)
 - [3D Object Classification](#3d_object_classification)
 - [Audio](#audio)
+- [Video](#video)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
 
@@ -101,6 +102,12 @@ Paper list.
 ## Audio
 [Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
 [2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+
+## Video
+[2015:C3D](https://arxiv.org/pdf/1412.0767.pdf)
+
+[2017:Res3D](https://arxiv.org/pdf/1708.05038.pdf)
+
 
 ## Others
 ### 2013
