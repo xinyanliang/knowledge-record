@@ -53,15 +53,16 @@ plt.show()
 一般的笔记本电脑都有内置摄像头。所以参数就是 0。你可以通过设置成 1 或者其他的来选择别的摄像头。之后，你就可以一帧一帧的捕获视频了。但是最后，别忘了停止捕获视频。[ref](http://blog.csdn.net/qq_18343569/article/details/50275305)
 
 ```python
-import numpy as np  
-import cv2  
-cap=cv2.VideoCapture(0)  
-while (True):  
-    ret,frame=cap.read()  
-    gray=cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)  
-    cv2.imshow("shiyan",gray)  
-    if cv2.waitKey(1)&0xFF==ord('q'):  
-        break  
-cap.release()  
-cv2.destroyAllWindows()  
+import cv2
+import numpy as np
+
+cap = cv2.VideoCapture('dM06AMFLsrc.mp4')
+
+vid = []
+while True:
+    ret, img = cap.read()
+    if not ret:
+        break
+    vid.append(cv2.resize(img, (171, 128)))
+vid = np.array(vid, dtype=np.float32) 
 ```
