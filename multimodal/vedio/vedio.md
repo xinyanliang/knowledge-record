@@ -1,6 +1,6 @@
 # Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 ## [Home](../README.md)
-- The goal of this document is to provide a reading list in Multimodal learning.
+- The goal of this document is to provide a reading list in Vedio.
 
 ## Topics
 - [Video Descriptions](#video-descriptions)
@@ -29,10 +29,11 @@
 [2017:Res3D](https://arxiv.org/pdf/1708.05038.pdf)
 
 
-##Datasets
+## Datasets
 
-###Action Recognition Data Set
-[UCF101]([http://crcv.ucf.edu/data/UCF101.php](http://crcv.ucf.edu/data/UCF101.php))
+### Action Recognition Data Set
+
+[UCF101]([http://crcv.ucf.edu/data/UCF101.php)
 
 
 
