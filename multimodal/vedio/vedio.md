@@ -44,7 +44,7 @@
 ## tools
 
 > youtube-dl is a command-line program to download videos from YouTube.com and a few more sites
-[youtube-d](https://rg3.github.io/youtube-dl/)
+[youtube-dl](https://rg3.github.io/youtube-dl/)
 
 [光流gpu代码](https://github.com/feichtenhofer/gpu_flow)
 
