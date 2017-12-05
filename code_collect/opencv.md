@@ -1,4 +1,5 @@
 - [opencv document](http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html)
+- [OpenCV-Python中文教程](https://www.kancloud.cn/aollo/aolloopencv/272073)
 
 
 - opencv install
