@@ -51,7 +51,8 @@
 
 ## people
 
-[Zuxuan Wu](http://zxwu.azurewebsites.net/)
+- [Zuxuan Wu](http://zxwu.azurewebsites.net/)
+- [Limin Wang (王利民)](http://wanglimin.github.io/)
 
 
 
