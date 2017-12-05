@@ -33,7 +33,7 @@
 
 ### Action Recognition Data Set
 
-[UCF101]([http://crcv.ucf.edu/data/UCF101.php)
+[UCF101](http://crcv.ucf.edu/data/UCF101.php)
 
 
 
