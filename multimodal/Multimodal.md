@@ -12,7 +12,7 @@
 - [Medical](medical/medical.md)
 - [3D Object Classification](#3d_object_classification)
 - [Audio](#audio)
-- [Video](video/vedio.md)
+- [Video](vedio/vedio.md)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
 
