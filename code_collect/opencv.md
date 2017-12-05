@@ -51,7 +51,7 @@ plt.show()
 
 为了获取视频，应该创建一个 VideoCapture 对象。他的参数可以是设备的索引号，或者是一个视频文件。设备索引号就是在指定要使用的摄像头。
 一般的笔记本电脑都有内置摄像头。所以参数就是 0。你可以通过设置成 1 或者其他的来选择别的摄像头。之后，你就可以一帧一帧的捕获视频了。但是最后，别忘了停止捕获视频。[ref1](http://blog.csdn.net/qq_18343569/article/details/50275305) [ref2](http://www.cnblogs.com/ronny/p/opencv_road_10.html)
-
+[ref3](http://yongyuan.name/pcvwithpython/chapter10.html)
 ```python
 import cv2
 import numpy as np
