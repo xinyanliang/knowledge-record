@@ -24,9 +24,13 @@
 
 [视频切割](https://zhuanlan.zhihu.com/p/28008666)
 
+[Video-Classification-2-Stream-CNN](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN)
+
 [2015:C3D](https://arxiv.org/pdf/1412.0767.pdf) [keras code1](https://gist.github.com/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2) [keras code2](https://github.com/axon-research/c3d-keras)
 
 [2017:Res3D](https://arxiv.org/pdf/1708.05038.pdf)
+
+
 
 
 ## Datasets
