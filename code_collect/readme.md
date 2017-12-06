@@ -24,7 +24,7 @@
 
 
 ### 视频
-- [youtube_dl](librosa.md)
+- [youtube_dl](http://www.jianshu.com/p/c264eb1d1653)
 
 ### others
 
