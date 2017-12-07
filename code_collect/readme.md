@@ -18,6 +18,7 @@
 ### 自然语言
 - [nltk](nltk.md)
 - [jieba](https://github.com/fxsjy/jieba) 中文分词python版
+- [gensim](http://www.jianshu.com/p/2208e59804da)
 
 ### 音频
 - [librosa](librosa.md)
