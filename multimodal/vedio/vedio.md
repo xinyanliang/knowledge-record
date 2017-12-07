@@ -24,6 +24,8 @@
 
 ## Video
 
+[Video Classification and Captioning 知乎专栏](https://zhuanlan.zhihu.com/diffml)
+
 [视频切割](https://zhuanlan.zhihu.com/p/28008666)
 
 [Video-Classification-2-Stream-CNN](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN)
