@@ -23,6 +23,8 @@
 -  multimodal fusion 
 -  co-learning
 
+[A review of affective computing: From unimodal analysis to multimodal fusion](http://sentic.net/affective-computing-review.pdf)
+
 ## Papers
 Paper list.
 
