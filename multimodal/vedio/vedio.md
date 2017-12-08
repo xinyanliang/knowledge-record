@@ -36,6 +36,8 @@
 
 [Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5) [github](https://github.com/harvitronix/five-video-classification-methods)
 
+[Learning End-to-end Video Classification with Rank-Pooling](http://proceedings.mlr.press/v48/fernando16.pdf)
+
 
 
 ## Datasets
