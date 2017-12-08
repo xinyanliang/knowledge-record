@@ -1,6 +1,6 @@
 # Recommended Papers ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](LICENSE)
 ## [Home](../README.md)
-- The goal of this document is to provide a reading list in Multimodal learning.
+- The goal of this document is to provide a reading list in Emotion.
 
 ## Topics
 - [paper](#paper)
