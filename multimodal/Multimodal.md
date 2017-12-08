@@ -8,7 +8,7 @@
 - [Video Descriptions](#video-descriptions)
 - [Visual Question-Answer (VQA)](#visual-question-answer)
 - [Human Pose Estimation](#human_pose_estimation)
-- [Emotion](/emotion/emotion.md)
+- [Emotion](emotion/emotion.md)
 - [Medical](medical/medical.md)
 - [3D Object Classification](#3d_object_classification)
 - [Audio](#audio)
