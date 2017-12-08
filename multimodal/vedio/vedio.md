@@ -34,7 +34,7 @@
 
 [2017:Res3D](https://arxiv.org/pdf/1708.05038.pdf)
 
-[Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+[Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5) [github](https://github.com/harvitronix/five-video-classification-methods)
 
 
 
