@@ -21,6 +21,7 @@ Deep spatio-temporal features for multimodal emotion recognition[pdf](https://ep
 [Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network](https://www.ijcai.org/proceedings/2017/0456.pdf)
 
 [Frame-Transformer Emotion Classification Network](http://www.yugangjiang.info/publication/icmr17-emotion.pdf)
+Recognizing Facial Expressions Using Deep Learning[pdf](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)
 
 ### 2015
 [Emotion Classification on face images - CS229 - Stanford University](http://cs229.stanford.edu/proj2015/158_report.pdf)
