@@ -94,6 +94,19 @@ Paper list.
 
 [CNN BASED MUSIC EMOTION CLASSIFICATION](https://arxiv.org/pdf/1704.05665.pdf)
 
+[Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network](https://www.ijcai.org/proceedings/2017/0456.pdf)
+
+[Frame-Transformer Emotion Classification Network](http://www.yugangjiang.info/publication/icmr17-emotion.pdf)
+
+### 2015
+[Emotion Classification on face images - CS229 - Stanford University](http://cs229.stanford.edu/proj2015/158_report.pdf)
+
+### 2014
+[Survey on audiovisual emotion recognition: databases, features, and data fusion strategies](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BA206CFFEC3BAE321842B8EB820E179/S2048770314000110a.pdf/survey_on_audiovisual_emotion_recognition_databases_features_and_data_fusion_strategies.pdf)
+
+### 2010
+[A 3-D Audio-Visual Corpus of Affective Communication](http://www.fanelli.li/pubs/corpus.pdf)
+
 ## 3D Object Classification
 
 ### 2012
