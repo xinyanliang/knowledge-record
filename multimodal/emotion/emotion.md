@@ -29,6 +29,10 @@
 ### 2010
 [A 3-D Audio-Visual Corpus of Affective Communication](http://www.fanelli.li/pubs/corpus.pdf)
 
+### 2008
+
+[Emotion Recognition Based on Physiological Changes in Music Listening](https://www.informatik.uniaugsburg.de/lehrstuehle/hcm/publications/2008-TPAMI/TPAMI-0874-1206_optimized.pdf)
+
 
 ## Datasets
 |Name  |Year   |paf   |
