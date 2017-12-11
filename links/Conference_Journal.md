@@ -46,3 +46,7 @@ __[NIPS](https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processi
 
 [IEEE TRANSACTIONS ON MULTIMEDIA](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046) 2区 top
 >The scope of the Periodical is the various aspects of research in multimedia technology and applications of multimedia, including, but not limited to, circuits, networking, signal processing, systems, software, and systems integration, as represented by the Fields of Interest of the sponsors. 
+
+
+[IEEE Transactions on Signal Processing](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78) 2区 top
+>The IEEE Transactions on Signal Processing covers novel theory, algorithms, performance analyses and applications of techniques for the processing, understanding, learning, retrieval, mining, and extraction of information from signals. The term "signal" includes, among others, audio, video, speech, image, communication, geophysical, sonar, radar, medical and musical signals. Examples of topics of interest include, but are not limited to, information processing and the theory and application of filtering, coding, transmitting, estimating, detecting, analyzing, recognizing, synthesizing, recording, and reproducing signals.
