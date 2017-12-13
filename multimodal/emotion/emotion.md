@@ -14,7 +14,7 @@
 
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
-|1|__Deep Bimodal Regression of Apparent Personality Traits from Short Video Sequences__||[paper](http://lamda.nju.edu.cn/weixs/publication/tac17.pdf) [projeact](http://lamda.nju.edu.cn/weixs/project/APA/APA.html)|__IEEE Transactions on Affective Computing 2017__|
+|1|__Deep Bimodal Regression of Apparent Personality Traits from Short Video Sequences__|[paper](http://lamda.nju.edu.cn/weixs/publication/tac17.pdf) [project](http://lamda.nju.edu.cn/weixs/project/APA/APA.html)| __IEEE Transactions on Affective Computing 2017__|
 |2|Deep spatio-temporal features for multimodal emotion recognition| [paper](https://eprints.qut.edu.au/105854/1/292.pdf)| 
 |3|CNN BASED MUSIC EMOTION CLASSIFICATION| [paper](https://arxiv.org/pdf/1704.05665.pdf)| |
 |4|Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network| [paper](https://www.ijcai.org/proceedings/2017/0456.pdf)| |
