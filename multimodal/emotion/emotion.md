@@ -20,12 +20,12 @@
 |4|Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network| [paper](https://www.ijcai.org/proceedings/2017/0456.pdf)| |
 |5|Frame-Transformer Emotion Classification Network| [paper](http://www.yugangjiang.info/publication/icmr17-emotion.pdf)| |
 |6|Recognizing Facial Expressions Using Deep Learning| [paper](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)| |
-|7|A __review__ of affective computing: From unimodal analysis to multimodal fusion| [paper](https://ac.els-cdn.com/S1566253517300738/1-s2.0-S1566253517300738-main.pdf?_tid=c0b44872-df48-11e7-b6cc-00000aacb35e&acdnat=1513089102_a68b14a2aa580108d3276be8ac855c43)| __Information Fusion 2017 __ |
+|7|A __review__ of affective computing: From unimodal analysis to multimodal fusion| [paper](https://ac.els-cdn.com/S1566253517300738/1-s2.0-S1566253517300738-main.pdf?_tid=c0b44872-df48-11e7-b6cc-00000aacb35e&acdnat=1513089102_a68b14a2aa580108d3276be8ac855c43)| __Information Fusion 2017__ |
 
 ### 2016
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
-|1|Fusing audio, visual and textual clues for sentiment analysis from multimodal content| [paper](https://ac.els-cdn.com/S0925231215011297/1-s2.0-S0925231215011297-main.pdf?_tid=8d10b112-df49-11e7-93da-00000aacb361&acdnat=1513089445_855a03b9a23456f6502325eaee761b07)| __ Neurocomputing 2016 __ |
+|1|Fusing audio, visual and textual clues for sentiment analysis from multimodal content| [paper](https://ac.els-cdn.com/S0925231215011297/1-s2.0-S0925231215011297-main.pdf?_tid=8d10b112-df49-11e7-93da-00000aacb361&acdnat=1513089445_855a03b9a23456f6502325eaee761b07)| __Neurocomputing 2016__ |
 
 ### 2015
 |Id|Name  | link  | Pub.|
