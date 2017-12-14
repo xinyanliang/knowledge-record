@@ -21,7 +21,7 @@
 - [gensim](http://www.jianshu.com/p/2208e59804da)
 
 ### 音频
-- [librosa](librosa.md)
+- [librosa](http://www.jianshu.com/p/bf6cb803f25e)
 
 
 ### 视频
