@@ -29,6 +29,8 @@
 |-----|:-----:|:-----:|:-----:|
 |1|Fusing audio, visual and textual clues for sentiment analysis from multimodal content| [paper](https://ac.els-cdn.com/S0925231215011297/1-s2.0-S0925231215011297-main.pdf?_tid=8d10b112-df49-11e7-93da-00000aacb361&acdnat=1513089445_855a03b9a23456f6502325eaee761b07)| __Neurocomputing 2016__ |
 
+
+[文字卷积](http://www.cips-cl.org/static/anthology/CCL-2017/CCL-17-058.pdf)
 ### 2015
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
