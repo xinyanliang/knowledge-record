@@ -21,6 +21,8 @@
 |5|Frame-Transformer Emotion Classification Network| [paper](http://www.yugangjiang.info/publication/icmr17-emotion.pdf)| |
 |6|Recognizing Facial Expressions Using Deep Learning| [paper](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)| |
 |7|A __review__ of affective computing: From unimodal analysis to multimodal fusion| [paper](https://ac.els-cdn.com/S1566253517300738/1-s2.0-S1566253517300738-main.pdf?_tid=c0b44872-df48-11e7-b6cc-00000aacb35e&acdnat=1513089102_a68b14a2aa580108d3276be8ac855c43)| __Information Fusion 2017__ |
+|8|Benchmarking Multimodal Sentiment Analysis| [paper](https://arxiv.org/pdf/1707.09538.pdf)| __Accepted in CICLing 2017__ |
+
 
 ### 2016
 |Id|Name  | link  | Pub.|
