@@ -100,6 +100,8 @@ Paper list.
 [Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
 [2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 
+[CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION](https://arxiv.org/pdf/1609.09430.pdf)
+
 
 
 ## Others
