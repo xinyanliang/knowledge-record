@@ -102,6 +102,10 @@ Paper list.
 
 [CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION](https://arxiv.org/pdf/1609.09430.pdf)
 
+SoundNet: Learning Sound Representations from Unlabeled Video (2016NIPS)[paper](http://carlvondrick.com/soundnet.pdf)
+
+Very deep convolutional neural networks for raw waveforms(2016)[paper](https://arxiv.org/pdf/1610.00087.pdf)
+
 
 
 ## Others
