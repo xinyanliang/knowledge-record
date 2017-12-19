@@ -53,7 +53,7 @@
 
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
-|1|Learning End-to-end Video Classification with Rank-Pooling|[paper][Learning End-to-end Video Classification with Rank-Pooling](http://users.cecs.anu.edu.au/~basura/papers/ICML2016.pdf)|ICML|
+|1|Learning End-to-end Video Classification with Rank-Pooling|[paper](http://users.cecs.anu.edu.au/~basura/papers/ICML2016.pdf)|ICML|
 
 
 ### 2015
