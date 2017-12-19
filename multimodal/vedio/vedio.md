@@ -38,7 +38,7 @@
 
 [Learning End-to-end Video Classification with Rank-Pooling](http://proceedings.mlr.press/v48/fernando16.pdf)
 
-
+Spatiotemporal Modeling for Crowd Counting in Videos [paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Xiong_Spatiotemporal_Modeling_for_ICCV_2017_paper.pdf)
 
 ## Datasets
 
