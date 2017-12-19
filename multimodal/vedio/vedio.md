@@ -36,7 +36,7 @@
 
 [Five video classification methods implemented in Keras and TensorFlow](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5) [github](https://github.com/harvitronix/five-video-classification-methods)
 
-[Learning End-to-end Video Classification with Rank-Pooling](http://proceedings.mlr.press/v48/fernando16.pdf)
+
 
 
 
@@ -53,14 +53,14 @@
 
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
-|1||||
+|1|Learning End-to-end Video Classification with Rank-Pooling|[paper][Learning End-to-end Video Classification with Rank-Pooling](http://users.cecs.anu.edu.au/~basura/papers/ICML2016.pdf)|ICML|
 
 
 ### 2015
 
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
-|1||||
+|1|Learning Spatiotemporal Features with 3D Convolutional Networks|[paper](https://arxiv.org/pdf/1412.0767.pdf) <br/> [project](http://vlg.cs.dartmouth.edu/c3d/)|ICCV|
 
 
 ### 2014
