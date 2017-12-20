@@ -106,6 +106,7 @@ SoundNet: Learning Sound Representations from Unlabeled Video (2016NIPS)[paper](
 
 Very deep convolutional neural networks for raw waveforms(2016)[paper](https://arxiv.org/pdf/1610.00087.pdf)
 
+[Wenwu Wang](http://personal.ee.surrey.ac.uk/Personal/W.Wang/)
 
 
 ## Others
