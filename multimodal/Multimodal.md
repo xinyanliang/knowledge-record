@@ -11,7 +11,7 @@
 - [Emotion](emotion/emotion.md)
 - [Medical](medical/medical.md)
 - [3D Object Classification](#3d_object_classification)
-- [Audio](#audio)
+- [Audio](audio/audio.md)
 - [Video](vedio/vedio.md)
 - [Others](#others)
 - [Multimodal Machine Learning](https://sites.google.com/site/multiml2016cvpr/)
@@ -96,17 +96,6 @@ Paper list.
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/Convolutional_Recursive_deep_learning_for_3D_object_classification_nips2012.png)|__Convolutional-Recursive Deep Learning for 3D Object Classification__|[Richard Socher](http://www.socher.org/), Brody Huval, Bharath Bhat, [Christopher D. Manning](https://nlp.stanford.edu/manning/), Andrew Y. Ng |__NIPS 2012__|[PDF](http://papers.nips.cc/paper/4773-convolutional-recursive-deep-learning-for-3d-object-classification.pdf) [Projeact](http://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification)||
 
-## Audio
-[Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
-[2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
-
-[CNN ARCHITECTURES FOR LARGE-SCALE AUDIO CLASSIFICATION](https://arxiv.org/pdf/1609.09430.pdf)
-
-SoundNet: Learning Sound Representations from Unlabeled Video (2016NIPS)[paper](http://carlvondrick.com/soundnet.pdf)
-
-Very deep convolutional neural networks for raw waveforms(2016)[paper](https://arxiv.org/pdf/1610.00087.pdf)
-
-[Wenwu Wang](http://personal.ee.surrey.ac.uk/Personal/W.Wang/)
 
 
 ## Others
