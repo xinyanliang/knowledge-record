@@ -33,14 +33,15 @@
 
 
 ### 2016
-|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
+|No.  |Title   |Authors  |Pub.  |Links|Datasets|
+|-----|:-----:|:-----:|:-----:|:---:|:---:|
 |1|__Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge__| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html), Alexander Toshev, Samy Bengio, Dumitru Erhan|__PAMI 2016__|[PDF](https://arxiv.org/abs/1609.06647) [github](https://github.com/tensorflow/models/tree/master/research/im2txt) 解读|[COCO](http://cocodataset.org/#home)|
+|2|Long-term Recurrent Convolutional Networks for Visual Recognition and Description|||PAMI|[paper](https://arxiv.org/pdf/1411.4389v4.pdf)||
 
 
 ### 2015
-|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
+|No.  |Title   |Authors  |Pub.  |Links|Datasets|
+|-----|:-----:|:-----:|:-----:|:---:|:---:|
 |1|__Show and tell: A neural image caption generator__| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html), Alexander Toshev, [Samy Bengio](http://bengio.abracadoudou.com/), Dumitru Erhan|__CVPR 2015__|[Smile](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43274.pdf) <br/>解读| [COCO](http://cocodataset.org/#home)|
 
 
