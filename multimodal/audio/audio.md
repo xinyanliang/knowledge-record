@@ -21,9 +21,9 @@
 
 
 
-## Audio
-[Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
-[2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+## Audio blog
+- Getting Started with Audio Data Analysis using Deep Learning (with case study)[1](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/) [2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+- [Comparative Audio Analysis With Wavenet, MFCCs, UMAP, t-SNE and PCA](https://medium.com/@LeonFedden/comparative-audio-analysis-with-wavenet-mfccs-umap-t-sne-and-pca-cb8237bfce2f)
 
 
 
