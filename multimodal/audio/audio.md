@@ -37,6 +37,7 @@
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
 |1.|Objects that Sound|[paper](https://arxiv.org/pdf/1712.06651.pdf)||
+|2.|Frequency resolution of spectrograms in __acoustic scene classification__|[paper](https://github.com/karoldvl/paper-2017-DCASE/blob/master/Paper/Piczak2017-DCASE.pdf) [github](https://github.com/karoldvl/paper-2017-DCASE)||
 
 ### 2016
 
