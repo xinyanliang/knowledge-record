@@ -16,7 +16,7 @@
 
 - [Image Captioning in Deep Learning](https://medium.com/towards-data-science/image-captioning-in-deep-learning-9cd23fb4d8d2)
 
--[梅涛：“看图说话”](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327847&idx=1&sn=26cef37ab1331c51f1e62b50b141d655)
+- [梅涛：“看图说话”](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327847&idx=1&sn=26cef37ab1331c51f1e62b50b141d655)
 
 
 
