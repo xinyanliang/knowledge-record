@@ -4,7 +4,7 @@
 
 ## Topics
 - [Cross-modal retrieval](#cross-modal-retrieval)
-- [Image Captioning](#image-captioning)
+- [Image Captioning](image_captioning/image_captioning.md)
 - [Video Descriptions](#video-descriptions)
 - [Visual Question-Answer (VQA)](#visual-question-answer)
 - [Human Pose Estimation](#human_pose_estimation)
@@ -42,33 +42,6 @@ Paper list.
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/Learning_Deep_Structure-Preserving_Image-Text_Embeddings.png)|__Learning Deep Structure-Preserving Image-Text Embeddings__| L. Wang, Y. Li, and [S. Lazebnik](http://web.engr.illinois.edu/~slazebni/)|__CVPR 2016__|[PDF](http://web.engr.illinois.edu/~slazebni/publications/cvpr16_structure.pdf)||
 |2|![Smile](paper_image/2016crossmodalretrieve.png)|__A Comprehensive Survey on Cross-modal Retrieval__|Kaiye Wang, Qiyue Yin, Wei Wang, Shu Wu, Liang Wang||[PDF](https://arxiv.org/pdf/1607.06215.pdf)||
-
-## Image Captioning
-
-[Image Captioning in Deep Learning](https://medium.com/towards-data-science/image-captioning-in-deep-learning-9cd23fb4d8d2)
-
-[梅涛：“看图说话”](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650327847&idx=1&sn=26cef37ab1331c51f1e62b50b141d655)
-
-### 2017
-|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Jointly-Learning-Energy-Expenditures-and-Activities-using-Egocentric-Multimoda.png)|__Attend to You: Personalized Image Captioning with Context Sequence Memory Networks__|Cesc Chunseong Park, Byeongchang Kim and Gunhee Kim|__CVPR 2017__|[PDF](https://arxiv.org/abs/1704.06485) [code](https://github.com/cesc-park/attend2u) 解读|[IntaPIC-1.1M Json](https://drive.google.com/uc?export=download&id=0B3xszfcsfVUBdG0tU3BOQWV0a0E) [IntaPIC-1.1M Image](https://drive.google.com/ucexport=download&id=0B3xszfcsfVUBVkZGU2oxYVl6aDA)|
-|2|![Smile](paper_image/Dense-Captioning-Events-in-Videos.png)|__Dense-Captioning Events in Videos__|Ranjay Krishna, Kenji Hata, Frederic Ren, [Fei-Fei, Li](http://vision.stanford.edu/publications.html#year2017), Juan Carlos Niebles|__CVPR 2017__|[PDF](https://arxiv.org/abs/1705.00754) [Project](http://cs.stanford.edu/people/ranjaykrishna/densevid/) 解读|[ActivityNet Captions](http://cs.stanford.edu/people/ranjaykrishna/densevid/captions.zip)|
-|3|![Smile](paper_image/Knowing_when_to_look_CVPR2017.png)|__Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning__|Jiasen Lu, Caiming Xiong, Devi Parikh, [Richard Socher](http://www.socher.org/)|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1612.01887.pdf)||
-|4|![Smile](paper_image/SCA-CNN.png)|__SCA-CNN: Spatial and Channel-wise Attention in Convolutional Networks for Image Captioning__|Long Chen, Hanwang Zhang, Jun Xiao, Liqiang Nie, Jian Shao, Wei Liu, Tat-Seng Chua|__CVPR 2017__|[PDF](https://arxiv.org/pdf/1611.05594.pdf)||
-
-
-
-### 2016
-|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|2|![Smile](paper_image/show_and_tell_architecture.png)|__Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge__| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html), Alexander Toshev, Samy Bengio, Dumitru Erhan|__PAMI 2016__|[PDF](https://arxiv.org/abs/1609.06647) [github](https://github.com/tensorflow/models/tree/master/research/im2txt) 解读|[COCO](http://cocodataset.org/#home)|
-
-
-### 2015
-|No.  |Figure   |Title   |Authors  |Pub.  |Links|Datasets|
-|-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
-|1|![Smile](paper_image/Show-and-Tell.png)|__Show and tell: A neural image caption generator__| [Oriol Vinyals](https://research.google.com/pubs/OriolVinyals.html), Alexander Toshev, [Samy Bengio](http://bengio.abracadoudou.com/), Dumitru Erhan|__CVPR 2015__|[Smile](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/43274.pdf) <br/>解读| [COCO](http://cocodataset.org/#home)|
 
 
 
