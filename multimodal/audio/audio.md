@@ -22,9 +22,9 @@
 
 
 ## Audio blog
-- Getting Started with Audio Data Analysis using Deep Learning (with case study)[1](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/) [2](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
-- [Comparative Audio Analysis With Wavenet, MFCCs, UMAP, t-SNE and PCA](https://medium.com/@LeonFedden/comparative-audio-analysis-with-wavenet-mfccs-umap-t-sne-and-pca-cb8237bfce2f)
-- Monaural Audio Separation Using Spectral Template and Isolated Note Information [link](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LalW_ICAABchapter_2012.pdf)
+- Getting Started with Audio Data Analysis using Deep Learning (with case study)[\[1\]](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/) [\[2\]](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
+- Comparative Audio Analysis With Wavenet, MFCCs, UMAP, t-SNE and PCA [\[link\]](https://medium.com/@LeonFedden/comparative-audio-analysis-with-wavenet-mfccs-umap-t-sne-and-pca-cb8237bfce2f)
+- Monaural Audio Separation Using Spectral Template and Isolated Note Information [\[link\]](http://personal.ee.surrey.ac.uk/Personal/W.Wang/papers/LalW_ICAABchapter_2012.pdf)
 - Audio features for web-based ML [\[link\]](https://towardsdatascience.com/audio-features-for-web-based-ml-555776733bae)
 
 
