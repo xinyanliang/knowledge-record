@@ -40,6 +40,7 @@
 |-----|:-----:|:-----:|:-----:|
 |1.|Objects that Sound|[paper](https://arxiv.org/pdf/1712.06651.pdf)||
 |2.|Frequency resolution of spectrograms in __acoustic scene classification__|[paper](https://github.com/karoldvl/paper-2017-DCASE/blob/master/Paper/Piczak2017-DCASE.pdf) [github](https://github.com/karoldvl/paper-2017-DCASE)||
+|3.|Learning the Speech Front-end With Raw Waveform CLDNNs|[paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43960.pdf)||
 
 ### 2016
 
@@ -47,7 +48,8 @@
 |-----|:-----:|:-----:|:-----:|
 |1.|Very deep convolutional neural networks for raw waveforms|[paper](https://arxiv.org/pdf/1610.00087.pdf)||
 |2.|SoundNet: Learning Sound Representations from Unlabeled Video|[paper](http://carlvondrick.com/soundnet.pdf)|NIPS|
-|3.|[CNN  architectures for large-scale audio classification|[paper](https://arxiv.org/pdf/1609.09430.pdf)||
+|3.|CNN  architectures for large-scale audio classification|[paper](https://arxiv.org/pdf/1609.09430.pdf)||
+|4.|Trainable Frontend For Robust and Far-Field Keyword Spotting|[paper](https://arxiv.org/pdf/1607.05666.pdf)|||
 
 
 ### 2015
@@ -98,8 +100,8 @@
 
 
 ## tools
+[mel_features](https://github.com/tensorflow/models/blob/master/research/audioset/mel_features.py)
 
-> 
 ## people
 
 - [Wenwu Wang](http://personal.ee.surrey.ac.uk/Personal/W.Wang/)
