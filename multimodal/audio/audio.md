@@ -48,7 +48,7 @@
 |-----|:-----:|:-----:|:-----:|
 |1.|Very deep convolutional neural networks for raw waveforms|[paper](https://arxiv.org/pdf/1610.00087.pdf)||
 |2.|SoundNet: Learning Sound Representations from Unlabeled Video|[paper](http://carlvondrick.com/soundnet.pdf)|NIPS|
-|3.|CNN  architectures for large-scale audio classification|[paper](https://arxiv.org/pdf/1609.09430.pdf)||
+|3.|CNN  architectures for large-scale audio classification|[paper](https://arxiv.org/pdf/1609.09430.pdf) [github](https://github.com/tensorflow/models/tree/master/research/audioset)||
 |4.|Trainable Frontend For Robust and Far-Field Keyword Spotting|[paper](https://arxiv.org/pdf/1607.05666.pdf)|||
 
 
