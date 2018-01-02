@@ -35,6 +35,10 @@
 |Id|Name  | link  | Pub.|
 |-----|:-----:|:-----:|:-----:|
 |1|Emotion Classification on face images - CS229 - Stanford University| [paper](http://cs229.stanford.edu/proj2015/158_report.pdf)| |
+|2.|Deep Multimodal Learning for Affective Analysis and Retrieval|[paper](http://ieeexplore.ieee.org.eproxy1.lib.hku.hk/document/7277066/?reload=true)|IEEE transiactions on multimedia|
+|3.|Multimodal convolutional neural networks for matching image and sentence|[paper](https://arxiv.org/abs/1504.06063)|ICCV|
+
+
 
 ### 2014
 |Id|Name  | link  | Pub.|
