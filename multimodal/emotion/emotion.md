@@ -45,6 +45,7 @@
 |-----|:-----:|:-----:|:-----:|
 |1| __Survey__ on audiovisual emotion recognition: databases, features, and data fusion strategies| [paper](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5BA206CFFEC3BAE321842B8EB820E179/S2048770314000110a.pdf/survey_on_audiovisual_emotion_recognition_databases_features_and_data_fusion_strategies.pdf)| |
 |2|Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine| [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/IS140441.pdf)| |
+|3|A new approach of audio emotion recognition|[paper](https://ac.els-cdn.com/S0957417414001638/1-s2.0-S0957417414001638-main.pdf?_tid=78f379a6-efb8-11e7-a8c0-00000aab0f02&acdnat=1514896305_940f723e8801f9354cefed112a59e667)|Expert Systems with Applications|
 
 ### 2010
 |Id|Name  | link  | Pub.|
