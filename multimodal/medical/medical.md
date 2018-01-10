@@ -28,6 +28,14 @@ is a nuclear medicine functional imaging technique that is used to observe metab
 
 [Positron emission tomography–computed tomography](https://en.wikipedia.org/wiki/PET-CT) (better known as PET-CT or PET/CT) is a nuclear medicine technique which combines, in a single gantry, a positron emission tomography (PET) scanner and an x-ray computed tomography (CT) scanner, to acquire sequential images from both devices in the same session, which are combined into a single superposed (co-registered) image. Thus, functional imaging obtained by PET, which depicts the spatial distribution of metabolic or biochemical activity in the body can be more precisely aligned or correlated with anatomic imaging obtained by CT scanning. Two- and three-dimensional image reconstruction may be rendered as a function of a common software and control system.
 
+## 图片格式
+
+- [NlfTl-1](https://nifti.nimh.nih.gov/nifti-1/)
+
+- [NlfTl-2](https://nifti.nimh.nih.gov/nifti-2/)
+
+- [DICOM](http://www.dicomstandard.org/)
+
 ## Pipeline for the medical tasks
 
 [常见医疗扫描图像处理步骤](http://shartoo.github.io/medical_image_process/)
