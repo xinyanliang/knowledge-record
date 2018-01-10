@@ -80,7 +80,7 @@ Paper list.
 
 读取mhd格式 [SimpleITK](http://www.simpleitk.org/)
 
-[大量的python库](www.nipy.org)
+[大量的python库](http://www.nipy.org)
 
 [Topics](#topics)
 
