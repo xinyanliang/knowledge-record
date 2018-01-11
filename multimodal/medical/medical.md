@@ -68,7 +68,7 @@ Paper list.
 ### 2014
 |No|Titel|Links|
 |---|:---|:---|
-|1|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[paper](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> |
+|1|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[paper](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf)|
 
 [Topics](#topics)
 
