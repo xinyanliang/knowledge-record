@@ -60,6 +60,16 @@ Paper list.
 |-----|:-----:|:-----:|:-----:|:-----:|:---:|:---:|
 |1|![Smile](paper_image/shiyinghuang2014cvpr.png)|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[Yinghuan Shi](https://cs.nju.edu.cn/shiyh/), [Heung-Il Suk](https://www.ku-milab.org/people), Yang Gao, [Dinggang Shen](https://www.unc.edu/~dgshen/) |__[CVPR 2014](http://www.cvpapers.com/cvpr2014.html)__|[PDF](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> | ADNI|
 
+### 2016
+|No|Titel|Links|
+|---|:---|:---|
+|1.|Alzheimer's disase diagnostics by as deeply supervised adaptable 3D convolutional network.pdf|[paper](https://arxiv.org/pdf/1607.00556.pdf)|
+
+### 2014
+|No|Titel|Links|
+|---|:---|:---|
+|1|__Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis__|[paper](pdf/Joint Coupled-FeatureRepresentation and Coupled Boosting for AD Diagnosis.pdf) <br/> |
+
 [Topics](#topics)
 
 ## Lab
