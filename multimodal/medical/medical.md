@@ -109,11 +109,15 @@ Paper list.
 ## References
 [医学影像学习](http://www.yxppt.com/)
 
+[matlab处理dicom](http://blog.csdn.net/ymqq1/article/details/8765742)
+
 [Topics](#topics)
 
 ## Datasets
 
 ADNI [介绍](http://blog.csdn.net/sungden/article/details/79007264)
+
+[数据集总结](http://blog.51cto.com/apinetree/1566203)
 
 ## others
 [刘勇](http://www.cebs.ac.cn/duiwu_teacher.php?id=88) 
