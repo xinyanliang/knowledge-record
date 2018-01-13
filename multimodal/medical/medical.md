@@ -111,6 +111,8 @@ Paper list.
 
 [matlab处理dicom](http://blog.csdn.net/ymqq1/article/details/8765742)
 
+[paper](https://wizardyan.github.io/2017/08/29/paper_notes_6/)
+
 [Topics](#topics)
 
 ## Datasets
