@@ -111,6 +111,8 @@ Paper list.
 
 [RAVENS](http://iatr.virtualbrain.org/tool_review.php?tool_id=86)  Regional volumetric analysis of brain images
 
+[Nipype](http://nipype.readthedocs.io/en/latest/)
+
 [Topics](#topics)
 
 ## References
