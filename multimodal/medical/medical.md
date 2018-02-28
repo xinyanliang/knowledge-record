@@ -85,11 +85,22 @@ Paper list.
 [Topics](#topics)
 
 ## People
+|Name|研究方向|
+|---|---|
+|[刘勇](http://www.cebs.ac.cn/duiwu_teacher.php?id=88) ||
+|[隋婧](http://www.cebs.ac.cn/duiwu_teacher.php?id=66)||
+|[duliang](https://github.com/liangdu/Deep-Learning-for-Medical-Applications)||
 
 [Topics](#topics)
 
 ## Datasets
-[Alzheimer’s Disease Neuroimaging Initiative](http://adni.loni.usc.edu/) (ADNI) dataset.
+
+|Name|介绍|
+|---|---|
+|[ADNI]((http://adni.loni.usc.edu/))| [介绍](http://blog.csdn.net/sungden/article/details/79007264)
+
+
+[数据集总结](http://blog.51cto.com/apinetree/1566203)
 
 [Topics](#topics)
 
@@ -126,13 +137,7 @@ Paper list.
 
 [Topics](#topics)
 
-## Datasets
 
-ADNI [介绍](http://blog.csdn.net/sungden/article/details/79007264)
-
-[数据集总结](http://blog.51cto.com/apinetree/1566203)
 
 ## others
-[刘勇](http://www.cebs.ac.cn/duiwu_teacher.php?id=88) 
-[隋婧](http://www.cebs.ac.cn/duiwu_teacher.php?id=66)
-[duliang](https://github.com/liangdu/Deep-Learning-for-Medical-Applications)
+
