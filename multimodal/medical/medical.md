@@ -19,7 +19,7 @@
 
 [Topics](#topics)
 
-## The type of the edical images
+## The type of the medical images
 [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)(Magnetic resonance imaging)
 is a medical imaging technique used in radiology to form pictures of the anatomy and the physiological processes of the body in both health and disease. MRI scanners use strong magnetic fields, radio waves, and field gradients to generate images of the organs in the body. MRI does not involve x-rays, which distinguishes it from computed tomography (CT or CAT).
 
