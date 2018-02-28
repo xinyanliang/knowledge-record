@@ -76,8 +76,7 @@ Paper list.
 
 |Name|介绍|
 |---|---|
-|[LONI](http://loni.usc.edu/)| (Laboratory of Neuro Imaging) is in Keck School of Medicine of USC 
-[University of Southern California](https://www.usc.edu/).|
+|[LONI](http://loni.usc.edu/)| (Laboratory of Neuro Imaging) is in Keck School of Medicine of USC[University of Southern California](https://www.usc.edu/).|
 |[MiLab](https://www.ku-milab.org/)| (Machine Intelligence Laboratory at [Korea University](https://www.korea.edu/)) is devoted to the development of computational models and their applications to various researches in the brain and cognitive engineering field. Specifically, we focus on 1) pattern recognition and machine learning algorithms inspired from the neural information processing mechanism in a human brain, 2) brain disease diagnosis or prognosis by analyzing complex patterns inherent in neuroimaging or genetic data, and 3) non-invasive brain-computer interfaces to enhance human performance.
 |[IDEA Lab](http://www.med.unc.edu/bric/ideagroup/core-labs/idea-research-lab)|
 |[ibrain](http://ibrain.nuaa.edu.cn/)| 张道强|
