@@ -22,6 +22,7 @@
 ## The type of the medical images
 [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)(Magnetic resonance imaging)
 is a medical imaging technique used in radiology to form pictures of the anatomy and the physiological processes of the body in both health and disease. MRI scanners use strong magnetic fields, radio waves, and field gradients to generate images of the organs in the body. MRI does not involve x-rays, which distinguishes it from computed tomography (CT or CAT).
+[__Questions and Answers in MRI__](http://mriquestions.com/index.html)
 
 [PET](https://en.wikipedia.org/wiki/Positron_emission_tomography)(Positron emission tomography)
 is a nuclear medicine functional imaging technique that is used to observe metabolic processes in the body. The system detects pairs of gamma rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on a biologically active molecule. Three-dimensional images of tracer concentration within the body are then constructed by computer analysis. In modern PET-CT scanners, three-dimensional imaging is often accomplished with the aid of a CT X-ray scan performed on the patient during the same session, in the same machine.
