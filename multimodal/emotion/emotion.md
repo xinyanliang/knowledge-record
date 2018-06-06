@@ -18,6 +18,7 @@
 |1|__Deep Bimodal Regression of Apparent Personality Traits from Short Video Sequences__|[paper](http://lamda.nju.edu.cn/weixs/publication/tac17.pdf) [project](http://lamda.nju.edu.cn/weixs/project/APA/APA.html)| __IEEE Transactions on Affective Computing 2017__|
 |2|Deep spatio-temporal features for multimodal emotion recognition| [paper](https://eprints.qut.edu.au/105854/1/292.pdf)| 
 |3|CNN Based Music Emotion Classification| [paper](https://arxiv.org/pdf/1704.05665.pdf)| |
+
 |4|Joint Image Emotion Classification and Distribution Learning via Deep Convolutional Neural Network| [paper](https://www.ijcai.org/proceedings/2017/0456.pdf)| |
 |5|Frame-Transformer Emotion Classification Network| [paper](http://www.yugangjiang.info/publication/icmr17-emotion.pdf)| |
 |6|Recognizing Facial Expressions Using Deep Learning| [paper](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)| |
@@ -66,6 +67,9 @@
 |[IEMOCAP](http://sail.usc.edu/iemocap/iemocap_release.htm)|2008|“IEMOCAP: Interactive emotional dyadic motion capture database|
 |[eNTERFACE](http://www.enterface.net/results/)|2006|The eNTERFACE05 Audio-Visual Emotion Database|
 |[RECOLA](https://diuf.unifr.ch/diva/recola/annemo.html)|2013||
+
+## People
+- [郑伟龙](http://bcmi.sjtu.edu.cn/~zhengweilong/)
 
 
 ## Code
