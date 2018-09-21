@@ -84,6 +84,8 @@ Paper list.
 
 [中科院模式识别国家重点实验室](http://www.nlpr.ia.ac.cn/CN/model/index.shtml)
 
+[中科院计算所视觉信息处理与学习组](http://vipl.ict.ac.cn/)
+
 [MultiComp Lab of University of Southern California (USC)](http://multicomp.ict.usc.edu/)
 
 [MultiComp Lab of Carnegie Mellon University](http://multicomp.cs.cmu.edu/)
@@ -91,6 +93,7 @@ Paper list.
 ### 关注的人
 
 [杨敏](http://minyang.me/)
+[王树徽](http://vipl.ict.ac.cn/view_people.php?id=62)
 
 LAMDA团队
 
