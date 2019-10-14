@@ -5,6 +5,7 @@
 ## Topics
 - [机器学习](machine_learning/machine_learning.md)
 - [多模态](multimodal/Multimodal.md)
+- [声纹识别](multimodal/voicerecognition.md)
 - [著名的深度模型](netmodel/Networks.md)
 - [会议/期刊](links/Conference_Journal.md)
 - [代码](code_collect/readme.md)
